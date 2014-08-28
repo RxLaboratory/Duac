@@ -10,5 +10,5 @@ ____
 _How to install:_
 ==
 
-Copy "Duac.jsx" to the "Scripts\ScriptUI Panels" folder of After Effects.
+Copy "Duac.jsx" to the "Scripts\ScriptUI Panels" folder of After Effects, and copy "(Duac)" to the "Scripts" folder of After Effects
 
